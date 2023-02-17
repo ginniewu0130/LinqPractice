@@ -53,7 +53,7 @@ namespace LinqPractice002
                         continue;
                     }
 
-                    guess = input.Select(c => int.Parse(c.ToString())).ToArray();
+                    guess = input.Select((x) => int.Parse(x.ToString())).ToArray();
                     //for (int i = 0; i < guess.Length; i++)
                     //{
                     //    guess[i] = int.Parse(input[i].ToString());
