@@ -1,0 +1,8 @@
+C:\hackc\LinqPractice\LinqPractice002\bin\Debug\LinqPractice002.exe.config
+C:\hackc\LinqPractice\LinqPractice002\bin\Debug\LinqPractice002.exe
+C:\hackc\LinqPractice\LinqPractice002\bin\Debug\LinqPractice002.pdb
+C:\hackc\LinqPractice\LinqPractice002\obj\Debug\LinqPractice002.csproj.AssemblyReference.cache
+C:\hackc\LinqPractice\LinqPractice002\obj\Debug\LinqPractice002.csproj.SuggestedBindingRedirects.cache
+C:\hackc\LinqPractice\LinqPractice002\obj\Debug\LinqPractice002.csproj.CoreCompileInputs.cache
+C:\hackc\LinqPractice\LinqPractice002\obj\Debug\LinqPractice002.exe
+C:\hackc\LinqPractice\LinqPractice002\obj\Debug\LinqPractice002.pdb
